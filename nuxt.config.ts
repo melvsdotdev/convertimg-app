@@ -2,10 +2,10 @@
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Convertimg - A simple app to convert image to another image format online for free',
+      title: 'Convertimg - A free, simple and open source image converter',
       meta: [
         { name: 'og:title', content: 'Convertimg' },
-        { name: 'og:description', content: 'A simple app to convert image to another image format online for free' }
+        { name: 'og:description', content: 'A free, simple and open source image converter' }
       ]
     }
   },
